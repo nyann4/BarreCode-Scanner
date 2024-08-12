@@ -1,0 +1,5 @@
+-creer une classe Panier avec son nom et sa catégorie ainsi que son origine (nom = P627855, catégorie = FS/FL/PGC/PC/SG, Origine = 54551/54552/54554)
+-creer une base de donnée dans laquelle on a des liste pour chaque catégorie dans chaque origine
+-lier un bouton pour definir quel catégorie on scanne et quel origine
+-ajouter le nom de chaque panier scanner a la bonne origine et catégorie dans la base de donnée
+-comparer les bases de donnée scanner et celle du rapport en temps réel pour savoir si un panier n'appartient pas a la bonne origine
